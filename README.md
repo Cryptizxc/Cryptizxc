@@ -1,4 +1,4 @@
-<a href="https://cyp3ess.github.io/Cheat2Win/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/970365534988296194/970366698563702864/new_one.jpg" alt="Cryptic's Github"/></a>
+
 ```sh-session
 pip install code
 ```

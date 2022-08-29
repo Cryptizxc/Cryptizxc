@@ -10,7 +10,7 @@ pip install code
 
 ✔️・**Latest open source project [Discord-Web]**
 
-📩・**Want to reach? Add ༒Cryptic༒#4979 on [discord](https://discord.com) or mail - cyp3ess@gmail.com**
+📩・**Want to reach? Add Cyp3ess#0179 on [discord](https://discord.com) or mail - cyp3ess@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 
 

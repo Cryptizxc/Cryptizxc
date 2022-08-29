@@ -12,7 +12,7 @@ pip install code
 
 📩・**Want to reach? Add ༒Cryptic༒#4979 on [discord](https://discord.com) or mail - cyp3ess@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
-🌐・**Website: [Cheat2Win.com](https://cyp3ess.github.io/Cheat2Win/)**
+
 
 <a href="https://cyp3ess.github.io/Cheat2Win/" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/788471306815143956.png"/></a>
 <a href="https://cyp3ess.github.io/Cheat2Win/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>

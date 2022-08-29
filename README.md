@@ -1,6 +1,6 @@
 <a href="https://cyp3ess.github.io/Cheat2Win/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/970365534988296194/970366698563702864/new_one.jpg" alt="Cryptic's Github"/></a>
 ```sh-session
-pip install bitches
+pip install code
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
